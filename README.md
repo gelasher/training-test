@@ -13,8 +13,5 @@ These are updates made from RStudio. Here we can:
 - Add files to version control
 - Commit changes
 - Push commits to GitHub
-<<<<<<< HEAD
-
 - and this is a fourth thing we can do
-=======
->>>>>>> 0819836aa279eae83b4c8b01e827548915bb022e
+- and a fifth
