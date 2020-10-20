@@ -1,6 +1,6 @@
 # training-test
 
-This is a test repository. It only has a few roles.
+This is a test repository. It only has a few roles. But I changed it.
 
 - demonstrate how to create a repository in Github
 - practice with a commit
