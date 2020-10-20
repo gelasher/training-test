@@ -13,3 +13,5 @@ These are updates made from RStudio. Here we can:
 - Add files to version control
 - Commit changes
 - Push commits to GitHub
+
+- and this is a fourth thing we can do
